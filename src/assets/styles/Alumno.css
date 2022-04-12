@@ -1,0 +1,50 @@
+.mainContainer {
+	position: relative;
+	border-radius: 8px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background-color: white;
+	gap: 1em;
+	height: fit-content;
+	box-shadow: 2px 3px 2px 3px rgba(0, 0, 0, 0.26);
+}
+
+.container {
+	width: 90%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: start;
+}
+.titulo {
+	width: 40%;
+}
+
+.valor {
+	width: 50%;
+	text-align: end;
+	font-size: 1.3em;
+	padding-right: 1em;
+}
+
+.estado_container {
+	position: relative;
+	bottom: 0;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	text-align: center;
+	border-radius: 0 0 8px 8px;
+}
+.aprobado {
+	background-color: rgb(126, 236, 141);
+}
+
+.desaprobado {
+	background-color: rgb(247, 128, 128);
+}

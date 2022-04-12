@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.App {
+	text-align: center;
+	font-family: "Poppins", sans-serif;
+}
+
+.alumnos_container {
+	margin: 2em;
+	padding: 3em;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 3em;
+	border-radius: 5px;
+	/* background: linear-gradient(to right, #e0eafc, #cfdef3); */
+	background-color: #e7e7ec;
+	min-height: 100vh;
+}

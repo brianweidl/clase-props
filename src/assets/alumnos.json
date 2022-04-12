@@ -1,0 +1,3002 @@
+[
+	{
+		"nombre": "Jordi Aguilar",
+		"promedio": 2,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Begoña Gonzalez",
+		"promedio": 6,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Consuelo Gomez",
+		"promedio": 7,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Elisa Benitez",
+		"promedio": 5,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Belen Calvo",
+		"promedio": 4,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Blanca Leon",
+		"promedio": 3,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Lorena Flores",
+		"promedio": 0,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Luisa Pastor",
+		"promedio": 4,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Alejandro Garcia",
+		"promedio": 7,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Angeles Soler",
+		"promedio": 4,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Alejandra Herrera",
+		"promedio": 4,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Remedios Gil",
+		"promedio": 4,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Ismael Medina",
+		"promedio": 8,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "John Duran",
+		"promedio": 3,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Lourdes Carrasco",
+		"promedio": 1,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Alexander Cruz",
+		"promedio": 9,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Eduardo Cortes",
+		"promedio": 8,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Jose Vicente",
+		"promedio": 9,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Ruben Ruiz",
+		"promedio": 0,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Celia Mora",
+		"promedio": 6,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Rosario Parra",
+		"promedio": 7,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Salvador Peña",
+		"promedio": 9,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Benito Cruz",
+		"promedio": 1,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Raul Garcia",
+		"promedio": 9,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Esteban Roman",
+		"promedio": 1,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Angeles Molina",
+		"promedio": 7,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Margarita Saez",
+		"promedio": 0,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Jesus Vidal",
+		"promedio": 5,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Angeles Guerrero",
+		"promedio": 8,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Nerea Vazquez",
+		"promedio": 7,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Milagros Moreno",
+		"promedio": 1,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Beatriz Velasco",
+		"promedio": 0,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Nicolas Ibañez",
+		"promedio": 8,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Gregorio Moreno",
+		"promedio": 3,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Josefa Ruiz",
+		"promedio": 7,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Begoña Ramirez",
+		"promedio": 1,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Monica Jimenez",
+		"promedio": 6,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Margarita Ramirez",
+		"promedio": 1,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Marcos Romero",
+		"promedio": 4,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Manuel Ferrer",
+		"promedio": 9,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Rodrigo Marin",
+		"promedio": 8,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Alfredo Jimenez",
+		"promedio": 5,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Elisa Crespo",
+		"promedio": 8,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Nicolas Alvarez",
+		"promedio": 2,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Concepcion Hidalgo",
+		"promedio": 0,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Purificacion Campos",
+		"promedio": 1,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Irene Duran",
+		"promedio": 3,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Teresa Benitez",
+		"promedio": 0,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Natalia Nieto",
+		"promedio": 8,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Julia Perez",
+		"promedio": 3,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Raquel Jimenez",
+		"promedio": 9,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Christian Sanchez",
+		"promedio": 1,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Fernando Vargas",
+		"promedio": 4,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Jesus Moya",
+		"promedio": 8,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Victoria Ortiz",
+		"promedio": 4,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Alicia Hernandez",
+		"promedio": 2,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Montserrat Hernandez",
+		"promedio": 7,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Esteban Lozano",
+		"promedio": 5,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Fernando Cabrera",
+		"promedio": 5,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Josefa Esteban",
+		"promedio": 1,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Blanca Gutierrez",
+		"promedio": 6,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Felix Santos",
+		"promedio": 3,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Aitor Rodriguez",
+		"promedio": 6,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Amparo Cortes",
+		"promedio": 8,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Christian Cortes",
+		"promedio": 2,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Eugenia Ortiz",
+		"promedio": 6,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Adriana Herrero",
+		"promedio": 8,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Eduardo Peña",
+		"promedio": 5,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Sonia Rojas",
+		"promedio": 0,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Angela Perez",
+		"promedio": 3,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Isaac Bravo",
+		"promedio": 7,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Miriam Duran",
+		"promedio": 5,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Jesus Vargas",
+		"promedio": 1,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Begoña Serrano",
+		"promedio": 0,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Silvia Bravo",
+		"promedio": 4,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Veronica Crespo",
+		"promedio": 6,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Alejandro Molina",
+		"promedio": 2,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Ruben Flores",
+		"promedio": 8,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Arturo Blanco",
+		"promedio": 6,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Aitor Alvarez",
+		"promedio": 4,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Remedios Caballero",
+		"promedio": 4,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Gema Vargas",
+		"promedio": 9,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Laura Romero",
+		"promedio": 1,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Domingo Fuentes",
+		"promedio": 7,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Sara Lorenzo",
+		"promedio": 9,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Isabel Alonso",
+		"promedio": 2,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Julia Guerrero",
+		"promedio": 4,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Domingo Serrano",
+		"promedio": 0,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Encarnacion Garrido",
+		"promedio": 3,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Ana Nieto",
+		"promedio": 3,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Maria Lozano",
+		"promedio": 9,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Sergio Suarez",
+		"promedio": 8,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Alfonso Vargas",
+		"promedio": 6,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Sofia Cortes",
+		"promedio": 0,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Mohamed Vazquez",
+		"promedio": 3,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Nuria Carmona",
+		"promedio": 7,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Julian Vicente",
+		"promedio": 5,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Eva Moreno",
+		"promedio": 3,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Patricia Delgado",
+		"promedio": 8,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Antonio Sanchez",
+		"promedio": 2,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Veronica Gimenez",
+		"promedio": 3,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Josefina Prieto",
+		"promedio": 7,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Purificacion Velasco",
+		"promedio": 0,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Francisco Molina",
+		"promedio": 4,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Rodrigo Cortes",
+		"promedio": 4,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Sonia Arias",
+		"promedio": 5,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Esther Jimenez",
+		"promedio": 5,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Rocio Aguilar",
+		"promedio": 1,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Jordi Gallardo",
+		"promedio": 1,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Ignacio Roman",
+		"promedio": 7,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Soledad Diez",
+		"promedio": 4,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Marcos Guerrero",
+		"promedio": 6,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Emilio Fernandez",
+		"promedio": 9,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Marina Garrido",
+		"promedio": 9,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Juana Hidalgo",
+		"promedio": 7,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Benito Guerrero",
+		"promedio": 7,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Ines Prieto",
+		"promedio": 9,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Julia Carmona",
+		"promedio": 2,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Monica Alonso",
+		"promedio": 6,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Jaime Medina",
+		"promedio": 7,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Catalina Fuentes",
+		"promedio": 0,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Silvia Gutierrez",
+		"promedio": 4,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Rodrigo Soto",
+		"promedio": 4,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Victoria Moya",
+		"promedio": 7,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Juan Reyes",
+		"promedio": 8,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Albert Ortega",
+		"promedio": 6,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "John Hidalgo",
+		"promedio": 6,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Antonio Molina",
+		"promedio": 4,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Manuela Duran",
+		"promedio": 7,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Dolores Arias",
+		"promedio": 1,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Carmelo Morales",
+		"promedio": 1,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Gloria Moreno",
+		"promedio": 4,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Magdalena Carmona",
+		"promedio": 5,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Sebastian Carrasco",
+		"promedio": 2,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Alicia Mora",
+		"promedio": 0,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Julian Morales",
+		"promedio": 2,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Mohamed Cano",
+		"promedio": 6,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Andres Gallardo",
+		"promedio": 7,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Ignacio Suarez",
+		"promedio": 9,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Ivan Vazquez",
+		"promedio": 3,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Adrian Nuñez",
+		"promedio": 4,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Mercedes Ferrer",
+		"promedio": 0,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Daniel Soler",
+		"promedio": 3,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Olga Ramirez",
+		"promedio": 2,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Mariano Benitez",
+		"promedio": 6,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Gregorio Lorenzo",
+		"promedio": 6,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Christian Gallardo",
+		"promedio": 7,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Gustavo Lorenzo",
+		"promedio": 9,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Lidia Carmona",
+		"promedio": 0,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Josep Montero",
+		"promedio": 7,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Jordi Hidalgo",
+		"promedio": 5,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Beatriz Cabrera",
+		"promedio": 6,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Ana Muñoz",
+		"promedio": 3,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Ismael Moya",
+		"promedio": 5,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Isabel Bravo",
+		"promedio": 4,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Vicenta Rojas",
+		"promedio": 1,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Lourdes Santos",
+		"promedio": 9,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Esther Ruiz",
+		"promedio": 6,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Gabriel Reyes",
+		"promedio": 4,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Daniel Sanz",
+		"promedio": 6,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Ricardo Velasco",
+		"promedio": 3,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Felix Cruz",
+		"promedio": 6,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Carla Pascual",
+		"promedio": 3,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Jordi Calvo",
+		"promedio": 3,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Antonio Alonso",
+		"promedio": 8,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Angeles Calvo",
+		"promedio": 2,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Hector Fernandez",
+		"promedio": 6,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Ines Garrido",
+		"promedio": 1,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Daniel Cano",
+		"promedio": 7,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Cristina Carmona",
+		"promedio": 2,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Lucia Crespo",
+		"promedio": 4,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Jose Campos",
+		"promedio": 0,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Miguel Ferrer",
+		"promedio": 2,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Angela Ortega",
+		"promedio": 3,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Luis Gomez",
+		"promedio": 2,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Martin Martinez",
+		"promedio": 1,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Celia Molina",
+		"promedio": 7,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Alba Carrasco",
+		"promedio": 7,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Jordi Vidal",
+		"promedio": 0,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Felix Peña",
+		"promedio": 7,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Mariano Mendez",
+		"promedio": 4,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Fernando Lozano",
+		"promedio": 5,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Sonia Soto",
+		"promedio": 4,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Jorge Lorenzo",
+		"promedio": 5,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Enrique Esteban",
+		"promedio": 8,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Sergio Fernandez",
+		"promedio": 3,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Jesus Torres",
+		"promedio": 6,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Cristian Flores",
+		"promedio": 5,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Xavier Hidalgo",
+		"promedio": 1,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Claudia Rubio",
+		"promedio": 6,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Joan Crespo",
+		"promedio": 5,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Antonia Carrasco",
+		"promedio": 5,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Claudia Ortiz",
+		"promedio": 6,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Cristina Cabrera",
+		"promedio": 3,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Raul Cano",
+		"promedio": 4,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Alfonso Leon",
+		"promedio": 7,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Veronica Perez",
+		"promedio": 1,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Oscar Rodriguez",
+		"promedio": 1,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Xavier Gutierrez",
+		"promedio": 1,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Ana Roman",
+		"promedio": 3,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Purificacion Moya",
+		"promedio": 0,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Salvador Ortega",
+		"promedio": 4,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Eugenio Ibañez",
+		"promedio": 7,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Ricardo Roman",
+		"promedio": 2,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Raul Santiago",
+		"promedio": 5,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Ramon Martin",
+		"promedio": 6,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Guillermo Dominguez",
+		"promedio": 0,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Amparo Martinez",
+		"promedio": 6,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Esperanza Soto",
+		"promedio": 4,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Josefina Suarez",
+		"promedio": 6,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Adrian Cortes",
+		"promedio": 5,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Sandra Molina",
+		"promedio": 8,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Olga Martinez",
+		"promedio": 8,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Miguel Gutierrez",
+		"promedio": 8,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Agustin Soler",
+		"promedio": 3,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Lourdes Pastor",
+		"promedio": 6,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Joaquin Vicente",
+		"promedio": 6,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Julia Marquez",
+		"promedio": 6,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Irene Cortes",
+		"promedio": 1,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Benito Aguilar",
+		"promedio": 4,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Domingo Gomez",
+		"promedio": 0,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Trinidad Cruz",
+		"promedio": 3,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Alicia Gonzalez",
+		"promedio": 6,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Eugenia Aguilar",
+		"promedio": 7,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Josefina Molina",
+		"promedio": 3,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Emilio Flores",
+		"promedio": 2,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Isaac Ibañez",
+		"promedio": 9,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Luisa Vega",
+		"promedio": 1,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Eugenia Santos",
+		"promedio": 3,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Valentin Ruiz",
+		"promedio": 1,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Marco Guerrero",
+		"promedio": 9,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Felipe Sanchez",
+		"promedio": 8,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Mohamed Carmona",
+		"promedio": 2,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Jordi Delgado",
+		"promedio": 3,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Alicia Saez",
+		"promedio": 6,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Marina Marquez",
+		"promedio": 5,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Nieves Cabrera",
+		"promedio": 5,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Pablo Rodriguez",
+		"promedio": 4,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Victoria Delgado",
+		"promedio": 9,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Domingo Hidalgo",
+		"promedio": 5,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Marc Gomez",
+		"promedio": 0,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Adrian Gimenez",
+		"promedio": 4,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Lorenzo Ramos",
+		"promedio": 0,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Nieves Duran",
+		"promedio": 4,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Asuncion Vidal",
+		"promedio": 1,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Nicolas Fernandez",
+		"promedio": 6,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Ernesto Nieto",
+		"promedio": 3,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Carla Ruiz",
+		"promedio": 9,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Felix Serrano",
+		"promedio": 7,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Jose Cortes",
+		"promedio": 4,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Manuela Gutierrez",
+		"promedio": 0,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Alejandro Velasco",
+		"promedio": 6,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Daniela Caballero",
+		"promedio": 0,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Eugenia Benitez",
+		"promedio": 8,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Pedro Lozano",
+		"promedio": 1,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Oscar Romero",
+		"promedio": 7,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Samuel Calvo",
+		"promedio": 1,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Irene Castillo",
+		"promedio": 6,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Iker Parra",
+		"promedio": 5,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Ismael Garrido",
+		"promedio": 7,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Paula Cruz",
+		"promedio": 9,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Jose Gimenez",
+		"promedio": 8,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Nerea Vega",
+		"promedio": 1,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Alexander Gil",
+		"promedio": 3,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Albert Fuentes",
+		"promedio": 7,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Pedro Cortes",
+		"promedio": 2,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Salvador Nieto",
+		"promedio": 5,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Asuncion Cano",
+		"promedio": 9,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "David Suarez",
+		"promedio": 0,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Benito Castro",
+		"promedio": 3,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Eugenio Lopez",
+		"promedio": 4,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Tomas Aguilar",
+		"promedio": 3,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Sofia Vargas",
+		"promedio": 3,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Carmelo Castillo",
+		"promedio": 2,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Noelia Pascual",
+		"promedio": 6,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Manuela Montero",
+		"promedio": 1,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Hugo Cruz",
+		"promedio": 7,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Juan Mendez",
+		"promedio": 0,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Gema Bravo",
+		"promedio": 7,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Josefa Hernandez",
+		"promedio": 8,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Beatriz Soto",
+		"promedio": 5,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Virginia Calvo",
+		"promedio": 1,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Carmen Cruz",
+		"promedio": 6,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Esteban Saez",
+		"promedio": 2,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Jaime Caballero",
+		"promedio": 3,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Ricardo Martin",
+		"promedio": 6,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Emilio Roman",
+		"promedio": 3,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Mercedes Torres",
+		"promedio": 5,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Emilio Marquez",
+		"promedio": 2,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Ramon Velasco",
+		"promedio": 2,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Patricia Castro",
+		"promedio": 1,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Eugenio Diez",
+		"promedio": 5,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Amparo Marin",
+		"promedio": 3,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Daniel Gimenez",
+		"promedio": 1,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Oscar Bravo",
+		"promedio": 2,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Dolores Pascual",
+		"promedio": 0,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Sonia Cabrera",
+		"promedio": 5,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Borja Muñoz",
+		"promedio": 8,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Miriam Gomez",
+		"promedio": 6,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Isabel Cortes",
+		"promedio": 9,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Vicenta Ferrer",
+		"promedio": 9,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Veronica Alonso",
+		"promedio": 9,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Hugo Lorenzo",
+		"promedio": 7,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Luisa Arias",
+		"promedio": 0,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Gloria Rojas",
+		"promedio": 6,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Marta Castillo",
+		"promedio": 3,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Emilia Romero",
+		"promedio": 5,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Margarita Campos",
+		"promedio": 3,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Luisa Saez",
+		"promedio": 5,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Roberto Saez",
+		"promedio": 1,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Sonia Santana",
+		"promedio": 6,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Monica Marin",
+		"promedio": 7,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Remedios Castillo",
+		"promedio": 3,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Borja Velasco",
+		"promedio": 3,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Fernando Herrero",
+		"promedio": 7,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Lucia Dominguez",
+		"promedio": 9,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "David Rodriguez",
+		"promedio": 2,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Adolfo Sanchez",
+		"promedio": 9,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Arturo Sanchez",
+		"promedio": 0,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Victoria Molina",
+		"promedio": 9,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Victoria Vega",
+		"promedio": 2,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Diego Nieto",
+		"promedio": 6,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Carolina Aguilar",
+		"promedio": 8,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Consuelo Lorenzo",
+		"promedio": 2,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Manuel Rodriguez",
+		"promedio": 1,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Roberto Rodriguez",
+		"promedio": 7,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Natalia Ramirez",
+		"promedio": 4,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Rosa Muñoz",
+		"promedio": 0,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Ramon Ramirez",
+		"promedio": 2,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Alex Benitez",
+		"promedio": 1,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Irene Santana",
+		"promedio": 4,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Andres Garcia",
+		"promedio": 7,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Andrea Cano",
+		"promedio": 1,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Inmaculada Nuñez",
+		"promedio": 3,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Isaac Duran",
+		"promedio": 7,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Salvador Alonso",
+		"promedio": 2,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Felipe Morales",
+		"promedio": 0,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Fernando Gutierrez",
+		"promedio": 6,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Claudia Fernandez",
+		"promedio": 3,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Santiago Medina",
+		"promedio": 3,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Beatriz Navarro",
+		"promedio": 2,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Eugenia Peña",
+		"promedio": 1,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Jesus Martin",
+		"promedio": 4,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Esteban Ramirez",
+		"promedio": 5,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Nieves Martinez",
+		"promedio": 6,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Ivan Cano",
+		"promedio": 3,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Carmelo Hernandez",
+		"promedio": 1,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Eugenia Caballero",
+		"promedio": 2,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Angeles Guerrero",
+		"promedio": 7,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Vicente Roman",
+		"promedio": 1,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Alfonso Campos",
+		"promedio": 0,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Irene Cruz",
+		"promedio": 3,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Sandra Calvo",
+		"promedio": 9,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Jaime Nieto",
+		"promedio": 7,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Marco Moreno",
+		"promedio": 0,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Miguel Vazquez",
+		"promedio": 2,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Domingo Blanco",
+		"promedio": 6,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Alejandro Garrido",
+		"promedio": 6,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Esteban Fernandez",
+		"promedio": 0,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Ines Ruiz",
+		"promedio": 0,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Montserrat Lorenzo",
+		"promedio": 3,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Enrique Vidal",
+		"promedio": 2,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Marina Vidal",
+		"promedio": 6,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Carmen Ibañez",
+		"promedio": 2,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Vicenta Morales",
+		"promedio": 9,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Soledad Herrera",
+		"promedio": 4,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Carmen Lorenzo",
+		"promedio": 5,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Isabel Martin",
+		"promedio": 8,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Miguel Vega",
+		"promedio": 5,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Miriam Calvo",
+		"promedio": 9,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Cristobal Mendez",
+		"promedio": 8,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Nicolas Delgado",
+		"promedio": 3,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Concepcion Vidal",
+		"promedio": 5,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Pablo Ortiz",
+		"promedio": 7,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Isabel Santiago",
+		"promedio": 8,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Manuel Lozano",
+		"promedio": 5,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Asuncion Herrera",
+		"promedio": 1,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Mario Ramirez",
+		"promedio": 3,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Raul Esteban",
+		"promedio": 1,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Manuel Marin",
+		"promedio": 2,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Pilar Vega",
+		"promedio": 4,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Amparo Navarro",
+		"promedio": 6,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Concepcion Rojas",
+		"promedio": 0,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Gerardo Ferrer",
+		"promedio": 6,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Patricia Castro",
+		"promedio": 3,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Mercedes Castro",
+		"promedio": 8,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Jose Soto",
+		"promedio": 6,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Alex Hidalgo",
+		"promedio": 5,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Gustavo Martin",
+		"promedio": 9,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Sofia Hidalgo",
+		"promedio": 1,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Juan Nieto",
+		"promedio": 0,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Ramon Peña",
+		"promedio": 1,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Luisa Peña",
+		"promedio": 5,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Soledad Montero",
+		"promedio": 3,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Josefa Lozano",
+		"promedio": 0,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Vanesa Lozano",
+		"promedio": 7,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Olga Santiago",
+		"promedio": 5,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Carolina Duran",
+		"promedio": 4,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Cristobal Alonso",
+		"promedio": 7,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Ignacio Sanz",
+		"promedio": 1,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Raquel Bravo",
+		"promedio": 7,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Marina Moreno",
+		"promedio": 9,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Samuel Mora",
+		"promedio": 5,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Dolores Suarez",
+		"promedio": 0,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Juana Moya",
+		"promedio": 8,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Eugenia Serrano",
+		"promedio": 8,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Francisca Carrasco",
+		"promedio": 1,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Javier Castro",
+		"promedio": 0,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Sofia Roman",
+		"promedio": 3,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Sofia Mora",
+		"promedio": 8,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Esther Saez",
+		"promedio": 1,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Catalina Suarez",
+		"promedio": 9,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Francisca Suarez",
+		"promedio": 2,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Felipe Reyes",
+		"promedio": 8,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Celia Sanchez",
+		"promedio": 5,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Emilia Castillo",
+		"promedio": 1,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Iker Leon",
+		"promedio": 7,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Joaquin Ortega",
+		"promedio": 3,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Raul Navarro",
+		"promedio": 4,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Ana Fuentes",
+		"promedio": 4,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Rosa Garcia",
+		"promedio": 6,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Rafael Lopez",
+		"promedio": 6,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Gerardo Marin",
+		"promedio": 3,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Mario Rubio",
+		"promedio": 1,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Sofia Ramirez",
+		"promedio": 9,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Esteban Gomez",
+		"promedio": 2,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Benito Torres",
+		"promedio": 7,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Rafael Castillo",
+		"promedio": 3,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Angel Vicente",
+		"promedio": 1,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Manuela Sanchez",
+		"promedio": 3,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Hector Cano",
+		"promedio": 5,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Celia Gil",
+		"promedio": 2,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Claudia Vidal",
+		"promedio": 5,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Carla Bravo",
+		"promedio": 9,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Nuria Garcia",
+		"promedio": 1,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Josefina Prieto",
+		"promedio": 3,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Sonia Delgado",
+		"promedio": 9,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Sonia Mendez",
+		"promedio": 5,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Christian Duran",
+		"promedio": 2,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Christian Esteban",
+		"promedio": 9,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Aitor Marquez",
+		"promedio": 9,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Eduardo Ramos",
+		"promedio": 5,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Cristina Serrano",
+		"promedio": 5,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Adrian Gimenez",
+		"promedio": 4,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Angela Carrasco",
+		"promedio": 4,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Alicia Campos",
+		"promedio": 2,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Emilia Ramos",
+		"promedio": 1,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Monica Gutierrez",
+		"promedio": 1,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Sara Cabrera",
+		"promedio": 8,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Elena Calvo",
+		"promedio": 3,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Andres Caballero",
+		"promedio": 7,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Daniel Carmona",
+		"promedio": 3,
+		"inasistencias": 1,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Purificacion Diaz",
+		"promedio": 2,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Martin Garrido",
+		"promedio": 4,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Adrian Vidal",
+		"promedio": 9,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Veronica Calvo",
+		"promedio": 3,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Rafael Pastor",
+		"promedio": 0,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Encarnacion Sanchez",
+		"promedio": 1,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Jesus Iglesias",
+		"promedio": 8,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Francisca Alvarez",
+		"promedio": 3,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Jonathan Bravo",
+		"promedio": 9,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Cristobal Reyes",
+		"promedio": 8,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Luz Gutierrez",
+		"promedio": 8,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Eduardo Sanz",
+		"promedio": 1,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Ignacio Santana",
+		"promedio": 7,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Mar Esteban",
+		"promedio": 4,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Teresa Caballero",
+		"promedio": 7,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Luis Rodriguez",
+		"promedio": 2,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Javier Ortiz",
+		"promedio": 9,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Esteban Cano",
+		"promedio": 2,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Pablo Santiago",
+		"promedio": 3,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Jose Alvarez",
+		"promedio": 0,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Carlos Navarro",
+		"promedio": 9,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "David Vega",
+		"promedio": 4,
+		"inasistencias": 6,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Adriana Vazquez",
+		"promedio": 9,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Borja Vargas",
+		"promedio": 1,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Luisa Castro",
+		"promedio": 6,
+		"inasistencias": 4,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Alexander Rojas",
+		"promedio": 3,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Joan Carrasco",
+		"promedio": 5,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Carmelo Diez",
+		"promedio": 8,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Luz Fuentes",
+		"promedio": 0,
+		"inasistencias": 5,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Cristobal Cortes",
+		"promedio": 8,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Jesus Campos",
+		"promedio": 5,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Mohamed Velasco",
+		"promedio": 4,
+		"inasistencias": 4,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Tomas Martinez",
+		"promedio": 0,
+		"inasistencias": 0,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Angela Saez",
+		"promedio": 4,
+		"inasistencias": 3,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Gonzalo Sanchez",
+		"promedio": 3,
+		"inasistencias": 2,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Concepcion Gil",
+		"promedio": 7,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Alicia Roman",
+		"promedio": 6,
+		"inasistencias": 1,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Adriana Gallardo",
+		"promedio": 6,
+		"inasistencias": 5,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Juan Pastor",
+		"promedio": 2,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Isaac Roman",
+		"promedio": 5,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Miguel Cano",
+		"promedio": 5,
+		"inasistencias": 7,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Lorenzo Castro",
+		"promedio": 9,
+		"inasistencias": 0,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Gabriel Sanchez",
+		"promedio": 8,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Ernesto Vicente",
+		"promedio": 6,
+		"inasistencias": 6,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Carlos Gil",
+		"promedio": 6,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Mario Reyes",
+		"promedio": 8,
+		"inasistencias": 2,
+		"estado": "Aprobado"
+	},
+	{
+		"nombre": "Alicia Alonso",
+		"promedio": 0,
+		"inasistencias": 7,
+		"estado": "Desaprobado"
+	},
+	{
+		"nombre": "Felipe Ortega",
+		"promedio": 5,
+		"inasistencias": 3,
+		"estado": "Aprobado"
+	}
+]
